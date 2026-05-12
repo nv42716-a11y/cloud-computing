@@ -2,14 +2,15 @@ body{
     font-family: Arial, sans-serif;
     margin: 0;
     text-align: center;
-    background: linear-gradient(to right, #e3f2fd, #ffffff);
-    color: #333;
+    background: linear-gradient(to right, #fff5f5, #ffffff);
+    color: #2d0a0a;
 }
 
 header{
-    background-color: #0d47a1;
+    background-color: #800020;
     color: white;
     padding: 30px;
+    box- shadow:0 2px 5px rgba(0,0,0,0,1);
 }
 
 h1{
